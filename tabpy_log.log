@@ -1,0 +1,59 @@
+2024-03-14,11:40:02 [INFO] (app.py:app:300): Parsing config file tabpy.conf
+2024-03-14,11:40:02 [DEBUG] (app.py:app:261): Parameter port set to "9004" from default value
+2024-03-14,11:40:02 [DEBUG] (app.py:app:261): Parameter server_version set to "2.9.0" from default value
+2024-03-14,11:40:02 [DEBUG] (app.py:app:261): Parameter evaluate_enabled set to "True" from default value
+2024-03-14,11:40:02 [DEBUG] (app.py:app:261): Parameter evaluate_timeout set to "30" from default value
+2024-03-14,11:40:02 [DEBUG] (app.py:app:261): Parameter upload_dir set to "C:\Users\user\AppData\Roaming\Python\Python39\site-packages\tabpy\tmp\query_objects" from default value
+2024-03-14,11:40:02 [DEBUG] (app.py:app:261): Parameter transfer_protocol set to "http" from default value
+2024-03-14,11:40:02 [DEBUG] (app.py:app:268): Parameter certificate_file is not set
+2024-03-14,11:40:02 [DEBUG] (app.py:app:268): Parameter key_file is not set
+2024-03-14,11:40:02 [DEBUG] (app.py:app:261): Parameter state_file_path set to "C:\Users\user\AppData\Roaming\Python\Python39\site-packages\tabpy\tabpy_server" from default value
+2024-03-14,11:40:02 [DEBUG] (app.py:app:261): Parameter static_path set to "C:\Users\user\AppData\Roaming\Python\Python39\site-packages\tabpy\tabpy_server\static" from default value
+2024-03-14,11:40:02 [DEBUG] (app.py:app:252): Parameter TABPY_PWD_FILE set to "/path/to/password/tabpyPWD.txt" from config file or environment variable
+2024-03-14,11:40:02 [DEBUG] (app.py:app:261): Parameter log_request_context set to "false" from default value
+2024-03-14,11:40:02 [DEBUG] (app.py:app:261): Parameter max_request_size_in_mb set to "100" from default value
+2024-03-14,11:40:02 [DEBUG] (app.py:app:261): Parameter gzip_enabled set to "True" from default value
+2024-03-14,11:40:02 [DEBUG] (app.py:app:261): Parameter arrow_enabled set to "False" from default value
+2024-03-14,11:40:02 [DEBUG] (app.py:app:261): Parameter arrowflight_port set to "13622" from default value
+2024-03-14,11:40:02 [INFO] (app.py:app:363): Setting max request size to 104857600 bytes
+2024-03-14,11:40:02 [INFO] (app.py:app:527): Loading state from state file C:\Users\user\AppData\Roaming\Python\Python39\site-packages\tabpy\tabpy_server\state.ini
+2024-03-14,11:40:02 [DEBUG] (app.py:app:379): Static pages folder set to "C:\Users\user\AppData\Roaming\Python\Python39\site-packages\tabpy\tabpy_server\static"
+2024-03-14,11:40:02 [INFO] (util.py:util:51): Parsing passwords file /path/to/password/tabpyPWD.txt...
+2024-03-14,11:40:02 [CRITICAL] (util.py:util:54): Passwords file /path/to/password/tabpyPWD.txt not found
+2024-03-14,11:40:02 [CRITICAL] (app.py:app:395): Failed to read passwords file /path/to/password/tabpyPWD.txt
+2024-03-14,11:40:17 [INFO] (app.py:app:300): Parsing config file tabpy.conf
+2024-03-14,11:40:17 [DEBUG] (app.py:app:261): Parameter port set to "9004" from default value
+2024-03-14,11:40:17 [DEBUG] (app.py:app:261): Parameter server_version set to "2.9.0" from default value
+2024-03-14,11:40:17 [DEBUG] (app.py:app:261): Parameter evaluate_enabled set to "True" from default value
+2024-03-14,11:40:17 [DEBUG] (app.py:app:261): Parameter evaluate_timeout set to "30" from default value
+2024-03-14,11:40:17 [DEBUG] (app.py:app:261): Parameter upload_dir set to "C:\Users\user\AppData\Roaming\Python\Python39\site-packages\tabpy\tmp\query_objects" from default value
+2024-03-14,11:40:17 [DEBUG] (app.py:app:261): Parameter transfer_protocol set to "http" from default value
+2024-03-14,11:40:17 [DEBUG] (app.py:app:268): Parameter certificate_file is not set
+2024-03-14,11:40:17 [DEBUG] (app.py:app:268): Parameter key_file is not set
+2024-03-14,11:40:17 [DEBUG] (app.py:app:261): Parameter state_file_path set to "C:\Users\user\AppData\Roaming\Python\Python39\site-packages\tabpy\tabpy_server" from default value
+2024-03-14,11:40:17 [DEBUG] (app.py:app:261): Parameter static_path set to "C:\Users\user\AppData\Roaming\Python\Python39\site-packages\tabpy\tabpy_server\static" from default value
+2024-03-14,11:40:17 [DEBUG] (app.py:app:252): Parameter TABPY_PWD_FILE set to "./tabpyPWD.txt" from config file or environment variable
+2024-03-14,11:40:17 [DEBUG] (app.py:app:261): Parameter log_request_context set to "false" from default value
+2024-03-14,11:40:17 [DEBUG] (app.py:app:261): Parameter max_request_size_in_mb set to "100" from default value
+2024-03-14,11:40:17 [DEBUG] (app.py:app:261): Parameter gzip_enabled set to "True" from default value
+2024-03-14,11:40:17 [DEBUG] (app.py:app:261): Parameter arrow_enabled set to "False" from default value
+2024-03-14,11:40:17 [DEBUG] (app.py:app:261): Parameter arrowflight_port set to "13622" from default value
+2024-03-14,11:40:17 [INFO] (app.py:app:363): Setting max request size to 104857600 bytes
+2024-03-14,11:40:17 [INFO] (app.py:app:527): Loading state from state file C:\Users\user\AppData\Roaming\Python\Python39\site-packages\tabpy\tabpy_server\state.ini
+2024-03-14,11:40:17 [DEBUG] (app.py:app:379): Static pages folder set to "C:\Users\user\AppData\Roaming\Python\Python39\site-packages\tabpy\tabpy_server\static"
+2024-03-14,11:40:17 [INFO] (util.py:util:51): Parsing passwords file ./tabpyPWD.txt...
+2024-03-14,11:40:17 [DEBUG] (util.py:util:82): Found username pdi
+2024-03-14,11:40:17 [INFO] (util.py:util:87): Authentication is enabled
+2024-03-14,11:40:17 [INFO] (app.py:app:411): Call context logging is disabled
+2024-03-14,11:40:17 [INFO] (app.py:app:181): Initializing TabPy...
+2024-03-14,11:40:17 [DEBUG] (proactor_events.py:proactor_events:624): Using proactor: IocpProactor
+2024-03-14,11:40:17 [INFO] (callbacks.py:callbacks:43): Initializing TabPy Server...
+2024-03-14,11:40:17 [DEBUG] (state.py:state:613): Loading option 'None' from section [Query Objects Service Versions]...
+2024-03-14,11:40:17 [DEBUG] (state.py:state:635): Returning value '[]'
+2024-03-14,11:40:17 [DEBUG] (state.py:state:148): Collected endpoints: {}
+2024-03-14,11:40:17 [INFO] (app.py:app:185): Done initializing TabPy.
+2024-03-14,11:40:17 [DEBUG] (selector_events.py:selector_events:54): Using selector: SelectSelector
+2024-03-14,11:40:17 [INFO] (callbacks.py:callbacks:64): Initializing models...
+2024-03-14,11:40:17 [DEBUG] (state.py:state:613): Loading option 'None' from section [Query Objects Service Versions]...
+2024-03-14,11:40:17 [DEBUG] (state.py:state:635): Returning value '[]'
+2024-03-14,11:40:17 [DEBUG] (state.py:state:148): Collected endpoints: {}
